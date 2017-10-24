@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gujjubites</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_dialog_string">
+        Bringing you the news that matters\n\n\n\n\n
+        Developed by Rushabh Mehta\n\n
+        Contact : gujjubitesnews@gmail.com\n\n</string>
+
+</resources>
